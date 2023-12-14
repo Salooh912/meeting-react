@@ -1,3 +1,3 @@
 export const 
-  GOOGLE_API_KEY = 'AIzaSyCKqXxd5hCxkTEWZCMKg2TTyrGs8fWRqXg',
-  CALENDAR_ID = 'sqm2udi1adf6ds7gj9h81tuet8@group.calendar.google.com';
+  GOOGLE_API_KEY = 'AIzaSyCayObpeZZw-4PR5hrco81vYvJX1E4I5lA',
+  CALENDAR_ID = '2e9269c212e6499932515fe264c88fdbb31bb9598006660bb0ba8432d16c9172@group.calendar.google.com';
